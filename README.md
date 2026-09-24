@@ -1,2 +1,3 @@
 # tesi_ingegneria_elettronica_ed_informatica
-Contenuti della tesi per la laurea in Ingegneria Elettronica ed Informatica
+Documenti della tesi per la laurea in Ingegneria Elettronica ed Informatica di Marco Civran ts_inginf.
+Presentazione (in pptx e in pdf) + Summary (in pdf).
